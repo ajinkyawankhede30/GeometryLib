@@ -5,7 +5,7 @@ A library to perfrom various linear algebra calculations on Points, Lines, Plane
 # Clone the repo
 git clone https://github.com/yourusername/GeometryLib.git
 
-#Create folder
+# Create folder
 cd GeometryLib
 
 # Create a build directory
